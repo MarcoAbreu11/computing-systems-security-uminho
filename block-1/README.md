@@ -1,6 +1,6 @@
 # Block 1 — Attack Surface and Threat Modelling
 
-**Deliverable:** [`SSC-Block1-Lab-Report-EN.pdf`](SSC-Block1-Lab-Report-EN.pdf), the individual lab report covering Labs 1 and 2.
+**Deliverable:** [`Report-Block1.pdf`](Report-Block1.pdf), the individual lab report covering Labs 1 and 2.
 
 **Environment:** the course lab VM (SSC lab base image v1.0, Ubuntu 24.04 LTS, amd64, hostname `ssc-lab`), running isolated in VirtualBox. No exploitation was performed; every observation comes from read-only commands.
 
