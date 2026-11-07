@@ -2,7 +2,7 @@
 
 **Goal:** move two containers, `jump` and `target`, from plain SSH public keys to an SSH certificate authority, separate authentication from authorisation, revoke a certificate, harden `sshd` and see how agent forwarding can be hijacked.
 
-The full answers are in the [Block 2 report](../SSC-Block2-Lab-Report-EN.pdf), Section 3.
+The full answers are in the [Block 2 report](../Report-Block2.pdf), Section 3.
 
 ## What I did
 
