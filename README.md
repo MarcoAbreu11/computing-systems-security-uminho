@@ -24,14 +24,14 @@ The image is deliberately vulnerable: it ships with planted weaknesses and fake 
 
 ```
 computing-systems-security-uminho/
-├── README.md                                   ← this file
+├── README.md                                  
 ├── .gitignore
 ├── block-1/
 │   ├── README.md
 │   ├── Report-Block1.pdf
-│   ├── lab-01-environment-and-attack-surface/   ← README + handout
+│   ├── lab-01-environment-and-attack-surface/   
 │   ├── lab-02-threat-modelling/
-│   └── lectures/                                ← lecture slides
+│   └── lectures/                               
 ├── block-2/
 │   ├── README.md
 │   ├── Report-Block2.pdf
