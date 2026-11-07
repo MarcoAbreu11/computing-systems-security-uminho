@@ -19,4 +19,7 @@ The full answers are in the [Block 1 report](../SSC-Block1-Lab-Report-EN.pdf).
 
 ## Course material
 
-Handout: `lab-02-threat-modelling.pdf`. Lecture: `lecture-02-threat-modelling-in-practice.pdf`. Both are the lecturer's material and are not redistributed in this repository.
+- Handout: [`lab-02-threat-modelling.pdf`](lab-02-threat-modelling.pdf)
+- Lecture: [`lecture-02-threat-modelling-in-practice.pdf`](../lectures/lecture-02-threat-modelling-in-practice.pdf)
+
+Both were written by the course lecturer, who holds the rights to them.
