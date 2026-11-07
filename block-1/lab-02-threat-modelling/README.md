@@ -2,7 +2,7 @@
 
 **Goal:** turn the Lab 1 inventory into a threat model of the same machine.
 
-The full answers are in the [Block 1 report](../SSC-Block1-Lab-Report-EN.pdf).
+The full answers are in the [Block 1 report](../Report-Block1.pdf).
 
 ## What I did
 
