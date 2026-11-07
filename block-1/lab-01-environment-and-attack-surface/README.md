@@ -30,4 +30,7 @@ A consolidated inventory of four focus items:
 
 ## Course material
 
-Handout: `lab-01-environment-and-attack-surface.pdf`. Lecture: `lecture-01-foundations-of-systems-security.pdf`. Both are the lecturer's material and are not redistributed in this repository.
+- Handout: [`lab-01-environment-and-attack-surface.pdf`](lab-01-environment-and-attack-surface.pdf)
+- Lecture: [`lecture-01-foundations-of-systems-security.pdf`](../lectures/lecture-01-foundations-of-systems-security.pdf)
+
+Both were written by the course lecturer, who holds the rights to them.
