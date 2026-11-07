@@ -2,7 +2,7 @@
 
 **Goal:** enumerate the local attack surface of the course lab VM (`ssc-lab`) using read-only commands only.
 
-The full answers are in the [Block 1 report](../SSC-Block1-Lab-Report-EN.pdf).
+The full answers are in the [Block 1 report](../Report-Block1.pdf).
 
 ## What I did
 
