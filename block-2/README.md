@@ -1,6 +1,6 @@
 # Block 2 — Authentication and Authorisation
 
-**Deliverable:** [`SSC-Block2-Lab-Report-EN.pdf`](SSC-Block2-Lab-Report-EN.pdf), the individual lab report covering Labs 3, 4 and 5 (preparation questions, every exercise, and the reflections of the three labs).
+**Deliverable:** [`Report-Block2.pdf`](Report-Block2.pdf), the individual lab report covering Labs 3, 4 and 5 (preparation questions, every exercise, and the reflections of the three labs).
 
 **Environment:** the course lab VM (`ssc-lab`), running isolated in VirtualBox. Lab 4 runs a local OpenID Provider ([dex](https://dexidp.io/)) at `localhost:5556` and a demo client at `localhost:3000`. Lab 5 runs two Docker containers, `jump` and `target`.
 
