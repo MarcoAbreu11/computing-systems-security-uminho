@@ -28,13 +28,13 @@ computing-systems-security-uminho/
 ├── .gitignore
 ├── block-1/
 │   ├── README.md
-│   ├── SSC-Block1-Lab-Report-EN.pdf
+│   ├── Report-Block1.pdf
 │   ├── lab-01-environment-and-attack-surface/   ← README + handout
 │   ├── lab-02-threat-modelling/
 │   └── lectures/                                ← lecture slides
 ├── block-2/
 │   ├── README.md
-│   ├── SSC-Block2-Lab-Report-EN.pdf
+│   ├── Report-Block2.pdf
 │   ├── lab-03-pam-and-the-authentication-stack/
 │   ├── lab-04-oidc-and-federated-identity/
 │   ├── lab-05-ssh-certificates-and-hardening/
