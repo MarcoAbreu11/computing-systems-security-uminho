@@ -49,4 +49,7 @@ docker compose exec -T target sh -c 'mkdir -p /home/dev/.ssh \
 
 ## Course material
 
-Handout: `lab-05-ssh-certificates-and-hardening.pdf`. Lecture: `lecture-05-authorisation-and-ssh.pdf`. Both are the lecturer's material and are not redistributed in this repository.
+- Handout: [`lab-05-ssh-certificates-and-hardening.pdf`](lab-05-ssh-certificates-and-hardening.pdf)
+- Lecture: [`lecture-05-authorisation-and-ssh.pdf`](../lectures/lecture-05-authorisation-and-ssh.pdf)
+
+Both were written by the course lecturer, who holds the rights to them.
