@@ -1,8 +1,13 @@
 # Block 1 — Attack Surface and Threat Modelling
 
-**Deliverable:** [SSC-Block1-Lab-Report-EN.pdf](SSC-Block1-Lab-Report-EN.pdf), the individual lab report covering Labs 1 and 2.
+**Deliverable:** [`SSC-Block1-Lab-Report-EN.pdf`](SSC-Block1-Lab-Report-EN.pdf), the individual lab report covering Labs 1 and 2.
 
-**Environment:** the course lab VM (*SSC lab base image* v1.0, Ubuntu 24.04 LTS, amd64, hostname `ssc-lab`), running isolated in VirtualBox. No exploitation was performed; every observation comes from read-only commands.
+**Environment:** the course lab VM (SSC lab base image v1.0, Ubuntu 24.04 LTS, amd64, hostname `ssc-lab`), running isolated in VirtualBox. No exploitation was performed; every observation comes from read-only commands.
+
+| Lab | Topic | Folder |
+|---|---|---|
+| Lab 1 | Environment setup and the attack surface of a machine | [`lab-01-environment-and-attack-surface/`](lab-01-environment-and-attack-surface/) |
+| Lab 2 | Threat modelling in practice | [`lab-02-threat-modelling/`](lab-02-threat-modelling/) |
 
 ## Lab 1 — Environment Setup and First Contact: the Attack Surface of a Machine
 
@@ -43,8 +48,8 @@ I turned the inventory into a threat model of the same machine:
 
 ## Report contents
 
-1. Preparation questions (both labs)
-2. Lab 1: Exercises 1–7 (orientation, listening sockets, SSH posture, setuid binaries, sudo, cron, readable configuration, inventory) and reflection
-3. Lab 2: attacker and assets, DFD, STRIDE table, attack tree, ranked weaknesses, surface metric, policy line and reflection
+- Preparation questions (both labs)
+- **Lab 1:** Exercises 1–7 (orientation, listening sockets, SSH posture, setuid binaries, sudo, cron, readable configuration, inventory) and reflection
+- **Lab 2:** attacker and assets, DFD, STRIDE table, attack tree, ranked weaknesses, surface metric, policy line and reflection
 
-> The credentials visible in some screenshots are fake values planted by the course lab image for educational purposes; they are not real secrets.
+The credentials visible in some screenshots are fake values planted by the course lab image for educational purposes; they are not real secrets.
