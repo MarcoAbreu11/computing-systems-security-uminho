@@ -35,4 +35,7 @@ faillock --user student --reset
 
 ## Course material
 
-Handout: `lab-03-pam-and-the-authentication-stack.pdf`. Lecture: `lecture-03-authentication-nss-and-pam.pdf`. Both are the lecturer's material and are not redistributed in this repository.
+- Handout: [`lab-03-pam-and-the-authentication-stack.pdf`](lab-03-pam-and-the-authentication-stack.pdf)
+- Lecture: [`lecture-03-authentication-nss-and-pam.pdf`](../lectures/lecture-03-authentication-nss-and-pam.pdf)
+
+Both were written by the course lecturer, who holds the rights to them.
