@@ -1,0 +1,23 @@
+# SSH private keys and certificates generated in the labs
+id_*
+!id_*.pub
+user_ca
+host_ca
+*.pem
+*.key
+*.krl
+
+# Tokens and local secrets
+.env
+*.jwt
+
+# Course material (the lecturer's handouts and slides are not redistributed)
+lab-0*-*.pdf
+lecture-*.pdf
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
