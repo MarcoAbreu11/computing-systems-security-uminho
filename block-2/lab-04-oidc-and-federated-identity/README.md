@@ -2,7 +2,7 @@
 
 **Goal:** run the OpenID Connect authorisation-code flow between a browser, a demo client (`localhost:3000`) and a local OpenID Provider, [dex](https://dexidp.io/) (`localhost:5556`), then break it through two common misconfigurations.
 
-The full answers are in the [Block 2 report](../SSC-Block2-Lab-Report-EN.pdf), Section 2.
+The full answers are in the [Block 2 report](../Report-Block2.pdf), Section 2.
 
 ## What I did
 
@@ -24,5 +24,6 @@ The full answers are in the [Block 2 report](../SSC-Block2-Lab-Report-EN.pdf), S
 ## Course material
 
 - Handout: [`lab-04-oidc-and-federated-identity.pdf`](lab-04-oidc-and-federated-identity.pdf)
+- Lecture: [`lecture-04-federated-identity.pdf`](../lectures/lecture-04-federated-identity.pdf)
 
-It was written by the course lecturer, who holds the rights to it.
+Both were written by the course lecturer, who holds the rights to them.
