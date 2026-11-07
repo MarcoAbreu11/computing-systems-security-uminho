@@ -29,14 +29,16 @@ computing-systems-security-uminho/
 ├── block-1/
 │   ├── README.md
 │   ├── SSC-Block1-Lab-Report-EN.pdf
-│   ├── lab-01-environment-and-attack-surface/
-│   └── lab-02-threat-modelling/
+│   ├── lab-01-environment-and-attack-surface/   ← README + handout
+│   ├── lab-02-threat-modelling/
+│   └── lectures/                                ← lecture slides
 ├── block-2/
 │   ├── README.md
 │   ├── SSC-Block2-Lab-Report-EN.pdf
 │   ├── lab-03-pam-and-the-authentication-stack/
 │   ├── lab-04-oidc-and-federated-identity/
-│   └── lab-05-ssh-certificates-and-hardening/
+│   ├── lab-05-ssh-certificates-and-hardening/
+│   └── lectures/
 ├── block-3/
 │   └── README.md
 ├── block-4/
@@ -45,7 +47,7 @@ computing-systems-security-uminho/
     └── README.md
 ```
 
-Each block folder has a `README.md` with a summary of the work and a link to the report, which is the assessed deliverable. Each lab folder has its own `README.md` with what I did, the key commands and the findings.
+Each block folder has a `README.md` with a summary of the work and a link to the report, which is the assessed deliverable. Each lab folder has its own `README.md` with what I did, the key commands and the findings, next to the lab handout.
 
 ## Contents
 
@@ -61,7 +63,7 @@ Each block folder has a `README.md` with a summary of the work and a link to the
 
 - **Isolated lab environment.** All work is done inside the isolated course lab VM and its containers. No system outside that environment is targeted.
 - **Fake credentials.** Any credentials shown in screenshots are fake values planted by the course lab image, or keys and tokens generated inside the lab for the exercises. They are not real secrets.
-- **Course material is not included.** The lab handouts and lecture slides belong to the lecturer and are not redistributed here. The lab READMEs name the handout each one refers to.
+- **Course material.** Each lab folder includes the lab handout, and each block's `lectures/` folder the lecture slides. They were written by the course lecturer, who holds the rights to them, and are included here for reference.
 - **Shared as a portfolio.** This repository documents my own coursework. If you are taking this course, follow its academic-integrity rules.
 
 ## Author

@@ -11,10 +11,6 @@ host_ca
 .env
 *.jwt
 
-# Course material (the lecturer's handouts and slides are not redistributed)
-lab-0*-*.pdf
-lecture-*.pdf
-
 # OS and editor files
 .DS_Store
 Thumbs.db
