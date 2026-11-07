@@ -23,4 +23,6 @@ The full answers are in the [Block 2 report](../SSC-Block2-Lab-Report-EN.pdf), S
 
 ## Course material
 
-Handout: `lab-04-oidc-and-federated-identity.pdf`. It is the lecturer's material and is not redistributed in this repository.
+- Handout: [`lab-04-oidc-and-federated-identity.pdf`](lab-04-oidc-and-federated-identity.pdf)
+
+It was written by the course lecturer, who holds the rights to it.
