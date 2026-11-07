@@ -2,7 +2,7 @@
 
 **Goal:** follow a login from the process that runs it down to the module that checks the password, then break the stack on purpose, repair it and harden it.
 
-The full answers are in the [Block 2 report](../SSC-Block2-Lab-Report-EN.pdf), Section 1.
+The full answers are in the [Block 2 report](../Report-Block2.pdf), Section 1.
 
 ## What I did
 
