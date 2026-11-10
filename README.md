@@ -1,4 +1,4 @@
-# Computing Systems Security — University of Minho
+# Computing Systems Security
 
 Coursework for **Computing Systems Security (SSC)**, MSc in Informatics Engineering, University of Minho, academic year 2026/2027.
 
